@@ -5,7 +5,7 @@
     line-height: 1.7;
   }
 }
-a:hover {
+i:hover {
       color: #ef8376;
       border-bottom-color: transparent;
     }
@@ -92,7 +92,7 @@ a:hover {
   .home section header p {
     font-size: 1.3em;
   }
-  
+
 }
 
 .animated {
