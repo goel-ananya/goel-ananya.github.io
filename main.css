@@ -5,7 +5,10 @@
     line-height: 1.7;
   }
 }
-
+a:hover {
+      color: #ef8376;
+      border-bottom-color: transparent;
+    }
 .navigator {
   text-align: right;
   margin-top: 20px;
@@ -89,10 +92,7 @@
   .home section header p {
     font-size: 1.3em;
   }
-  a:hover {
-      color: #ef8376;
-      border-bottom-color: transparent;
-    }
+  
 }
 
 .animated {
