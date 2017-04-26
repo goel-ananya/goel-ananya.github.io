@@ -89,6 +89,10 @@
   .home section header p {
     font-size: 1.3em;
   }
+  a:hover {
+      color: #ef8376;
+      border-bottom-color: transparent;
+    }
 }
 
 .animated {
